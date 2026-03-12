@@ -52,6 +52,9 @@ Order processing is handled by AWS Lambda functions that validate inventory, pro
 | PyMySQL | Python MySQL connector in Lambda |
 | Boto3 | AWS SDK for EventBridge |
 
+### Architecture
+![Architecture Diagram](architecture.png)
+
 ---
 
 ## Project Structure
